@@ -16,7 +16,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/intel/intel-vaapi-driver.git",
-                    "branch": "fcf9041b29cee938a228dc7950955ccebb43c6bf"
+                    "branch": "9a1f0c64174f970a26380d4957583c71372fbb7c"
                 }
             ]
         },
